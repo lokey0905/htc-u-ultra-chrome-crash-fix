@@ -1,0 +1,6 @@
+id=oce_fix_chrome_crash_LineageOS18.1
+name=Fix Chrome Crash on HTC U Ultra
+version=v1.0
+versionCode=1
+author=lokey0905
+description=Fixes the Chrome crash issue on HTC U Ultra running LineageOS 18.1.
